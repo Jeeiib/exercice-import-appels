@@ -81,8 +81,12 @@ Comptez **environ 3 heures**. Il n'est pas nécessaire de tout terminer : un tra
 fait et honnêtement décrit dans le rapport, vaut mieux qu'un travail complet que vous ne
 maîtrisez pas.
 
-Créez votre propre dépôt **privé** à partir de ce modèle, travaillez-y, et invitez
-`@Jeeiib` avant la date indiquée dans le mail.
+Créez votre propre dépôt **privé** à partir de ce modèle (bouton « Use this template »),
+travaillez-y, et invitez `@Jeeiib` avant la date indiquée dans le mail.
+
+Commitez au fil de l'eau : l'historique fait partie du rendu.
+
+Quand vous avez terminé, répondez au mail avec le lien de votre dépôt.
 
 Une question sur le sujet ? Posez-la par mail, c'est bienvenu.
 
